@@ -1,0 +1,72 @@
+name: pinalprojectbark
+description: "A new Flutter project."
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+  # ------------------------ PACKAGES ------------------------ #
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Utility Packages
+  path_provider: ^2.0.11
+  path: ^1.8.0
+  carousel_slider: ^4.0.0
+  video_player: ^2.5.0
+  flutter_svg: ^2.0.10+1
+  shared_preferences:
+  jwt_decoder:
+  flutter_slidable:
+  logging: ^1.0.1
+  velocity_x: ^4.1.1
+  http: 
+  intl: 0.18.1
+  logger: ^2.0.1
+  lottie: ^3.0.0
+  url_launcher: ^6.1.12
+  connectivity_plus: ^5.0.2
+  flutter_native_splash: ^2.3.2
+  smooth_page_indicator: ^1.1.0
+  flutter_vector_icons: ^2.0.0
+  flutter_screenutil: ^5.0.0+2
+  flutter_dotenv: ^5.1.0
+  image_picker: ^0.8.5+3
+
+  # Icons
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.6
+
+  # State Management
+  get: ^4.6.5
+  get_storage: ^2.1.1
+  http_parser: ^4.0.2
+
+  # ------------------------ ./ PACKAGES END ------------------------ #
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/on_boarding_images/
+
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: assets/fonts/Rubik-Regular.ttf
+        - asset: assets/fonts/Rubik-Bold.ttf
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-VariableFont_wdth,wght.ttf
+    - family: Alef
+      fonts:
+        - asset: assets/fonts/Alef-Regular.ttf
