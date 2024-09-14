@@ -1,9 +1,5 @@
 # Final project Genius bark
 
-A Flutter App.
-
-## summary
-
 In a world where the connection between owners and their pets is deeper than ever, there is a growing need for comprehensive training solutions. Many owners, both new and experienced, face challenges in raising their dogs and often seek professional guidance. However, there is a shortage of accessible and effective resources to support them.
 
 Our project, BarkGenius, aims to solve this problem by developing a mobile application that provides comprehensive training services for dog owners. The application will serve as a bridge between dog owners and professional trainers, allowing for easy access to personalized guidance and training programs tailored to the owners' needs.
