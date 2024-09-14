@@ -1,16 +1,17 @@
 # Final project Genius bark
 
-A new Flutter project.
+A Flutter App.
 
-## Getting Started
+## summary
 
-This project is a starting point for a Flutter application.
+In a world where the connection between owners and their pets is deeper than ever, there is a growing need for comprehensive training solutions. Many owners, both new and experienced, face challenges in raising their dogs and often seek professional guidance. However, there is a shortage of accessible and effective resources to support them.
 
-A few resources to get you started if this is your first Flutter project:
+Our project, BarkGenius, aims to solve this problem by developing a mobile application that provides comprehensive training services for dog owners. The application will serve as a bridge between dog owners and professional trainers, allowing for easy access to personalized guidance and training programs tailored to the owners' needs.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Moreover, the application will allow trainers to provide various services to the dog owners, including monitoring the dog's progress, issuing personalized recommendations, and setting training goals.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application is being developed using cutting-edge technologies, such as Flutter for the client-side interface and Node.js with MongoDB for the backend server. 
+
+In addition to the basic training functionalities, the application will include advanced features, such as building a detailed trainer profile and managing communication between owners and trainers in an efficient and user-friendly way.
+
+BarkGenius aims to set a new standard for interaction between dog owners and trainers, providing a modern and streamlined experience for dog training.
