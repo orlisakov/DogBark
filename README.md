@@ -1,4 +1,4 @@
-# pinalprojectbark
+# Final project Genius bark
 
 A new Flutter project.
 
